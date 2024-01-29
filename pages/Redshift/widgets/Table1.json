@@ -201,6 +201,7 @@
     "rightColumn": 63,
     "textSize": "0.875rem",
     "widgetId": "ufi9lsicjo",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{Select.data}}",
     "label": "Data",

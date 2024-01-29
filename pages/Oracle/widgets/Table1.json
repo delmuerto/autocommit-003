@@ -137,6 +137,7 @@
     "rightColumn": 56,
     "textSize": "0.875rem",
     "widgetId": "uz0r1cbsfg",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{Select.data}}",
     "label": "Data",

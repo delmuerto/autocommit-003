@@ -137,6 +137,7 @@
     "rightColumn": 64,
     "textSize": "0.875rem",
     "widgetId": "etyt92ulp8",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{FetchMany_1Column.data}}",
     "label": "Data",

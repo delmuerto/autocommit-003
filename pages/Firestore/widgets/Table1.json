@@ -201,6 +201,7 @@
     "rightColumn": 63,
     "textSize": "0.875rem",
     "widgetId": "0xsiq4onjz",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{ListDocs.data}}",
     "label": "Data",

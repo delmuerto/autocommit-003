@@ -265,6 +265,7 @@
     "rightColumn": 64,
     "textSize": "0.875rem",
     "widgetId": "fw9bbtzacp",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{FetchMany.data}}",
     "label": "Data",
